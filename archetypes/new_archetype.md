@@ -1,0 +1,6 @@
++++
+name = ""
+booktitle = ""
+genre = ""
+date = ""
++++

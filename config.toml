@@ -1,0 +1,16 @@
+languageCode = "en-us"
+title = "My Sweet New Hugo Site"
+baseurl = "http://stevensonmt_hugo.io/"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+canonifyURLs = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+description = "stevensonmt's Hugo experiment"
+author = "stevensonmt"
